@@ -1,2 +1,6 @@
 # zlELo.github.io
- My little homepage
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zlelo.github.io/)
+
+My little homepage with a "about me" page, some informations about my projects and a downloadpage with direct links to the files in the repository. You are welcome to   visit the website:
+
+https://zlelo.github.io
