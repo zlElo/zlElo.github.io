@@ -1,0 +1,45 @@
+#top {
+    text-align: center;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+    padding: 16px;
+}
+
+#footer {
+    text-align: center;
+    color: gray;
+    padding: 16px;
+}
+
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f1f1f1;
+  }
+
+  /* Card effects */
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+.buttonDownload {
+    background-color: DodgerBlue;
+        border: none;
+        color: white;
+        padding: 12px 30px;
+        cursor: pointer;
+        font-size: 20px;
+}
+
+.buttonDownload:hover {
+    background-color: rgb(39, 61, 128);
+  }
+
+#pictures {
+    height: auto;
+}
