@@ -8,3 +8,9 @@ body {
     margin: auto;
     padding: 16px;
 }
+
+#pict { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
