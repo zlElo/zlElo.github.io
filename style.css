@@ -1,32 +1,35 @@
+/*The body*/
 body {
     font-family:Arial, Helvetica, sans-serif;
     margin: 0;
 }
 
+/*The style of the top of the website*/
 #top {
     text-align: center;
 }
+
+/*The navigation of the website*/
 #navigation a {
-    color: gray;
+    color: rgb(49, 209, 121);
     padding: 8px;
 }
 
-#navigation a:hover {
-    color: rgb(43, 120, 209);
-}
-
+/*The main part*/
 #main {
     max-width: 800px;
     margin: auto;
     padding: 16px;
 }
 
+/*The footer of the website where the: "zlELo // hostet with love on GitHub" stays*/
 #footer {
     text-align: center;
     color: gray;
     padding: 16px;
 }
 
+/* The style for pictures*/
 #pic {
     display: flex; 
     justify-content: center; 
@@ -34,8 +37,27 @@ body {
     width: auto;
 }
 
+/* The extra style for the github picture*/
 #GitHub-pic {
     display: flex; 
     justify-content: center; 
     align-items: center;
+}
+
+/*The main text (The text on the top of the website)*/
+#maintextoben {
+    font-size: xx-large;
+    font-family:monospace;
+    background-color: rgb(49, 209, 121);
+}
+
+/* For Safari, Opera etc */
+::selection {
+    background: rgb(49, 209, 121);
+    color: white;
+}
+/* for Mozilla Firefox*/
+::-moz-selection {
+    background: rgb(49, 209, 121);
+    color: white;
 }

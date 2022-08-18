@@ -1,16 +1,30 @@
+/*Body part*/
 body {
     font-family:Arial, Helvetica, sans-serif;
     margin: 0;
 }
 
+/*The main part of the website*/
 #main {
     max-width: 800px;
     margin: auto;
     padding: 16px;
 }
 
+/*The cat picture style*/
 #pict { 
     display: flex; 
     justify-content: center; 
     align-items: center;
+}
+
+/* For Safari, Opera etc */
+::selection {
+    background: rgb(49, 209, 121);
+    color: white;
+}
+/* for Mozilla Firefox*/
+::-moz-selection {
+    background: rgb(49, 209, 121);
+    color: white;
 }
