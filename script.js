@@ -5,4 +5,10 @@ document.getElementById("counter").innerHTML = sec+" Sekunden";
     if (sec < 0) {
         clearInterval(timer);
     }
+    if (sec == 600) {
+        document.getElementById("gif").innerHTML = "<img src='pictures/dog.gif'>"
+    }
+    if (sec == 608) {
+        document.getElementById("gif").innerHTML = ""
+    }
 }, 1000);
