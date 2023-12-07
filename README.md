@@ -3,4 +3,4 @@
 
 My little homepage with a "about me" page, some informations about my projects and direct links to the files in the repository. You are welcome to   visit the website:
 
-https://zlelo.github.io
+https://zlelo.de
