@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zlElo-Page</title>
+    <link>https://zlelo.de/</link>
+    <description>Recent content on zlElo-Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://zlelo.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://zlelo.de/projects/</link>
+      <pubDate>Thu, 04 Jan 2024 16:27:36 +0100</pubDate>
+      <guid>https://zlelo.de/projects/</guid>
+      <description>PW-Card PW-Card is a webtool coded in python with the streamlit libary, to generate password cards. Did you know the problem when you forgot your password? With this tool, you don&amp;rsquo;t forget your password and if you loose the card, you can re-download your card with the restore feature! Interested? Look here&#xA;HoloPlay-Desk HoloPlay-desk is a unofficial desktop client for HoloPlay with a private mode feature. Look here&#xA;D-clean D-clean is a program to erase hard drives, secure!</description>
+    </item>
+  </channel>
+</rss>
